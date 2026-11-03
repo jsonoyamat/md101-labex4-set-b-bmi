@@ -30,7 +30,7 @@ Test one boundary per branch, lowest range first. A BMI of exactly 25.0 is Overw
 | Units | Weight | Height | BMI | Category |
 |---|---|---|---|---|
 | Metric | 60 kg | 165 cm | 22.04 | Normal |
-| English | 180 lb | 70 in | 25.83 | Overweight |
+| English | 180 lb | 70 in | 25.82 | Overweight |
 
 ## Components
 
